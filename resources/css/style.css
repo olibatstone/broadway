@@ -1,8 +1,37 @@
-header {
-  background-image: url(the-flatiron-building.png);
+header .nyimg {
+  background-image: url("../images/the-flatiron-building.png");
   text-align: center;
 }
 
 body {
   font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav {
+  font-size: 18px;
+  color:white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+footer {
+  text-align: left;
 }
