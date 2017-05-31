@@ -1,10 +1,18 @@
-header .nyimg {
+.nyimg {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+header {
   text-align: center;
 }
 
 body {
   font-family: Helvetica;
+}
+
+main {
+  text-align: center;
 }
 
 h1 {
@@ -13,9 +21,9 @@ h1 {
   color: white;
 }
 
-nav {
+a {
   font-size: 18px;
-  color:white;
+  color: white;
 }
 
 h2 {
@@ -34,4 +42,11 @@ p {
 
 footer {
   text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+
+support {
+  text-align: center;
 }
